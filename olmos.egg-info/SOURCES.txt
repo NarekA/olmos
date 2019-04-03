@@ -1,0 +1,12 @@
+MANIFEST.in
+README.rst
+setup.cfg
+olmos/__init__.py
+olmos/cli.py
+olmos/version.py
+olmos.egg-info/PKG-INFO
+olmos.egg-info/SOURCES.txt
+olmos.egg-info/dependency_links.txt
+olmos.egg-info/entry_points.txt
+olmos.egg-info/requires.txt
+olmos.egg-info/top_level.txt
